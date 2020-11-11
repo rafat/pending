@@ -12,6 +12,7 @@ Install Polkadot node locally. Run local Kusuma chain.
 
 ```
 git clone https://github.com/paritytech/substrate-api-sidecar.git
+cd substrate-api-sidecar
 yarn
 ```
 
