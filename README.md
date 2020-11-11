@@ -2,9 +2,9 @@
 
 <img src="https://github.com/rafat/pending/blob/main/img/pending.png" />
 
-**Step 1 : Run a Local Kusuma Node**
+**Step 1 : Run a Local Kusama Node**
 
-Install Polkadot node locally. Run local Kusuma chain.
+Install Polkadot node locally. Run local Kusama chain.
 
 <img src="https://github.com/rafat/pending/blob/main/img/kusuma_local_node.png" />
 
